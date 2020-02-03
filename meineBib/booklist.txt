@@ -1,0 +1,69 @@
+BOOKS in folders:
+++++++++++++++++++++++++++++++
+
+counter	=	37
+
+"Np" means book N only as PDF
+
+in blue: programming books
+-----------------------------------------------------------------
+1. high performance python  2014		978-1449361594	
+2. python for data analysis 2017		978-1491957660			
+6. scala cookbook				978-1-449-33961-6		
+7. programming in scala	2nd			978-0-981531687			
+8. numerical recipes 3rd 2007: 2 folders	978-0-511-33555-6		
+16. understanding and using c pointers, 2013	978-1-449-34418-4
+18. programming on parallel machines http://heather.cs.ucdavis.edu/parprocbook
+22. parallel prog&opti with intel xeon phi 2nd  978-0-9885234-2-5
+23. programming massively parallel processors	978-0-12-381472-2
+24. Parallel and Concurrent Prog. in Haskell	978-1-449-33594-6
+24. also in 24: Learning Spark			978-1-449-35862-4
+26. C++ Bruce Eckl				978-0139798092
+29. Parallel Programming Concepts and Practice	978-0-12-849890-3
+30. Python Pocket Reference			978-1-449-35701-6
+30. C++ tour. Bjarne Stroustrup			978-0-321-958310
+34. Der C++ Programmierer 5.Auflage
+
+red: linux/security books
+-----------------------------------------------------------------
+3.  A guide to kernel exploitation		978-1-59749-486-1
+4.  The Shellcoder's Handbook			978-0-470-08023-8
+5.  Linux Kernel Development			978-0-672-32946-3
+27. The Antivirus Hacker's Handbook 2015	978-1-119-02875
+28. Hacking: The Art of Exploitation 2nd	978-1-59327-144-2		
+35. Learning Linux Binary Analysis. Elfmaster	978-1-78216-710-5
+36. Intro.to 64b Assembly - Ray Seyfarth	978-1543138849
+
+green: statistics and data science  
+-----------------------------------------------------------------
+9. data mining - the text book,aggarwal,2015	978-3-319-14142-8
+10. mining text data,aggarwal,2012		978-1-4614-3222-7
+11. social network based recomndr systems 2015 	978-3-319-22734-4	
+12. data algorithms, parsian, 2015		978-1-491-90618-7
+13. http://www.deeplearningbook.org/		
+14. graph databases,2015(freeneo4jdownload)	978-1491930892
+15. mining the social web, russell, 2013	978-1-449-36761-9	new release jan 17, 2019
+17. process mining, van der Aalst, 2011		978-3-642-19345-3
+19. All of statistics, larry wasserman, 2004	978-0387402727
+20. the elements of statistical learning 2nd	978-0387848570
+21. wissenschaftliches Rechnen, Gilbert Strang	978-3-540-78495-1
+(24. also in 24: Learning Spark			978-1-449-35862-4)
+25. The Art of R Programming			978-1-59327-384-2
+37p. Python Machine Learning- Sebastian Raschka 978-1-78995-575-0
+
+print in I. (high perf python) Mining of Massive Datasets mmds.org v2.1
+
+-----------------------------------------------------------------
+	just pdfs:
+-----------------------------------------------------------------
+
+pdf 	 31. data science 2.0
+book+pdf 32. hands on machine learning with scikit learn and tensorflow
+pdf 	 33. introduction to machine learning
+
+
+
+All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics) von Larry Wasserman Gebundene Ausgabe EUR 58,99
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition… von Trevor Hastie Gebundene Ausgabe EUR 56,99
+Pattern Recognition and Machine Learning (Information Science and Statistics) von Christopher M. Bishop Gebundene Ausgabe EUR 64,71
+
