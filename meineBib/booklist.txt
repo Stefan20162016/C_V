@@ -26,6 +26,7 @@ in blue: programming books
 
 red: linux/security books
 -----------------------------------------------------------------
+-1: https://0xax.gitbooks.io/linux-insides/
 3.  A guide to kernel exploitation		978-1-59749-486-1
 4.  The Shellcoder's Handbook			978-0-470-08023-8
 5.  Linux Kernel Development			978-0-672-32946-3
