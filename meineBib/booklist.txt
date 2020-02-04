@@ -7,11 +7,11 @@ counter	=	42
 
 in blue: programming books
 -----------------------------------------------------------------
-1. high performance python  2014		978-1449361594	
-2. python for data analysis 2017		978-1491957660			
-6. scala cookbook				978-1-449-33961-6		
-7. programming in scala	2nd			978-0-981531687			
-8. numerical recipes 3rd 2007: 2 folders	978-0-511-33555-6		
+1.  high performance python  2014		978-1449361594	
+2.  python for data analysis 2017		978-1491957660			
+6.  scala cookbook				978-1-449-33961-6		
+7.  programming in scala	2nd		978-0-981531687			
+8.  numerical recipes 3rd 2007: 2 folders	978-0-511-33555-6		
 16. understanding and using c pointers, 2013	978-1-449-34418-4
 18. programming on parallel machines http://heather.cs.ucdavis.edu/parprocbook
 22. parallel prog&opti with intel xeon phi 2nd  978-0-9885234-2-5
@@ -39,7 +39,8 @@ red: linux/security books
 
 green: statistics and data science  
 -----------------------------------------------------------------
-9. data mining - the text book,aggarwal,2015	978-3-319-14142-8
+-2: Mining of Massive Datasets mmds.org v2.1
+9.  Data Mining - the text book,aggarwal,2015	978-3-319-14142-8
 10. mining text data,aggarwal,2012		978-1-4614-3222-7
 11. social network based recomndr systems 2015 	978-3-319-22734-4	
 12. data algorithms, parsian, 2015		978-1-491-90618-7
@@ -50,22 +51,18 @@ green: statistics and data science
 19. All of statistics, larry wasserman, 2004	978-0387402727
 20. the elements of statistical learning 2nd	978-0387848570
 21. wissenschaftliches Rechnen, Gilbert Strang	978-3-540-78495-1
-(24. also in 24: Learning Spark			978-1-449-35862-4)
+24. Learning Spark				978-1-449-35862-4
 25. The Art of R Programming			978-1-59327-384-2
-37p. Python Machine Learning- Sebastian Raschka 978-1-78995-575-0
+31p.Agile data science 2.0			978-1-491-96011-0
+32. hands on ML with scikit learn, tensorflow	978-1-491-96229-9
+33p.introduction to machine learning		978-1-449-36941-5
+37p.Python Machine Learning- Sebastian Raschka 978-1-78995-575-0
 38. Graph Algorithms: spark+neo4j	2019	978-1-492-05781-9
 40. Foundations of Data Science		2018	'http://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf'
-41p. network data analytics		2018	978-3-319-77799-3
-
-print in I. (high perf python) Mining of Massive Datasets mmds.org v2.1
+41p.network data analytics		2018	978-3-319-77799-3
 
 -----------------------------------------------------------------
-	just pdfs:
 -----------------------------------------------------------------
-
-pdf 	 31. data science 2.0
-book+pdf 32. hands on machine learning with scikit learn and tensorflow
-pdf 	 33. introduction to machine learning
 
 
 
