@@ -1,7 +1,7 @@
 SOFTCOPY BOOKS in folders:
 ++++++++++++++++++++++++++++++
 
-counter	=	39
+counter	=	41
 
 "Np" means book N only as PDF
 
@@ -22,7 +22,7 @@ in blue: programming books
 29. Parallel Programming Concepts and Practice	978-0-12-849890-3
 30. Python Pocket Reference			978-1-449-35701-6
 30. C++ tour. Bjarne Stroustrup			978-0-321-958310
-34. Der C++ Programmierer 5.Auflage
+34. Der C++ Programmierer 5.Auflage pdf and hardcopy
 
 red: linux/security books
 -----------------------------------------------------------------
@@ -42,8 +42,8 @@ green: statistics and data science
 10. mining text data,aggarwal,2012		978-1-4614-3222-7
 11. social network based recomndr systems 2015 	978-3-319-22734-4	
 12. data algorithms, parsian, 2015		978-1-491-90618-7
-13. http://www.deeplearningbook.org/		
-14. graph databases,2015(freeneo4jdownload)	978-1491930892
+13. http://www.deeplearningbook.org/		978-0262035613
+14. graph databases, neo4j, 2015		978-1491930892
 15. mining the social web, russell, 2013	978-1-449-36761-9	new release jan 17, 2019
 17. process mining, van der Aalst, 2011		978-3-642-19345-3
 19. All of statistics, larry wasserman, 2004	978-0387402727
@@ -53,6 +53,8 @@ green: statistics and data science
 25. The Art of R Programming			978-1-59327-384-2
 37p. Python Machine Learning- Sebastian Raschka 978-1-78995-575-0
 38. Graph Algorithms: spark+neo4j	2019	978-1-492-05781-9
+40. Foundations of Data Science		2018	'http://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf'
+41p. network data analytics		2018	978-3-319-77799-3
 
 print in I. (high perf python) Mining of Massive Datasets mmds.org v2.1
 
