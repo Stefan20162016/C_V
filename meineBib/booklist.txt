@@ -1,7 +1,7 @@
-BOOKS in folders:
+SOFTCOPY BOOKS in folders:
 ++++++++++++++++++++++++++++++
 
-counter	=	38
+counter	=	39
 
 "Np" means book N only as PDF
 
