@@ -1,7 +1,7 @@
 SOFTCOPY BOOKS in folders:
 ++++++++++++++++++++++++++++++
 
-counter	=	41
+counter	=	42
 
 "Np" means book N only as PDF
 
@@ -23,6 +23,7 @@ in blue: programming books
 30. Python Pocket Reference			978-1-449-35701-6
 30. C++ tour. Bjarne Stroustrup			978-0-321-958310
 34. Der C++ Programmierer 5.Auflage pdf and hardcopy
+42. Pro TBB C++ Parallel Programming 2019	978-1-4842-4398-5	
 
 red: linux/security books
 -----------------------------------------------------------------
