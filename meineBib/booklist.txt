@@ -1,7 +1,7 @@
 BOOKS in folders:
 ++++++++++++++++++++++++++++++
 
-counter	=	37
+counter	=	38
 
 "Np" means book N only as PDF
 
@@ -33,6 +33,7 @@ red: linux/security books
 28. Hacking: The Art of Exploitation 2nd	978-1-59327-144-2		
 35. Learning Linux Binary Analysis. Elfmaster	978-1-78216-710-5
 36. Intro.to 64b Assembly - Ray Seyfarth	978-1543138849
+39. Linux Driver Development for Embedded Proc. 978-17829321829
 
 green: statistics and data science  
 -----------------------------------------------------------------
@@ -50,6 +51,7 @@ green: statistics and data science
 (24. also in 24: Learning Spark			978-1-449-35862-4)
 25. The Art of R Programming			978-1-59327-384-2
 37p. Python Machine Learning- Sebastian Raschka 978-1-78995-575-0
+38. Graph Algorithms: spark+neo4j	2019	978-1-492-05781-9
 
 print in I. (high perf python) Mining of Massive Datasets mmds.org v2.1
 
