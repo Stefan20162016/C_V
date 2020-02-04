@@ -48,6 +48,7 @@ green: statistics and data science
 14. graph databases, neo4j, 2015		978-1491930892
 15. mining the social web, russell, 2013	978-1-449-36761-9	new release jan 17, 2019
 17. process mining, van der Aalst, 2011		978-3-642-19345-3
+17p.A primer on process minig	2017		978-3-319-56427-2
 19. All of statistics, larry wasserman, 2004	978-0387402727
 20. the elements of statistical learning 2nd	978-0387848570
 21. wissenschaftliches Rechnen, Gilbert Strang	978-3-540-78495-1
@@ -60,7 +61,8 @@ green: statistics and data science
 38. Graph Algorithms: spark+neo4j	2019	978-1-492-05781-9
 40. Foundations of Data Science		2018	'http://www.cs.cornell.edu/jeh/book no so;utions March 2019.pdf'
 41p.network data analytics		2018	978-3-319-77799-3
-
+43p. Computational Mathematic with SageMaker
+44p. Advanced Statistical Computing R.Gray 2001	
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
